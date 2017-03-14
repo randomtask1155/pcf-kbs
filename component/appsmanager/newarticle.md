@@ -16,7 +16,7 @@ New error
 
 **Cause**
 
-PCF failure ```session fails```
+PCF failure ```session failure```
 
 **Resolution**
 
